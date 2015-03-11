@@ -32,7 +32,7 @@
       "userid": "",
       "signaling": {
         "password": "12345",
-        "username": "7001050",
+        "username": "7001052”,
         "domain": "gsc.com",
         "protocol": "tls",
         "port": "5061",
@@ -48,7 +48,7 @@
         "enabled": "1"
       },
       "messaging": {
-        "username" : "7001050@gsc.com",
+        "username" : "7001052@gsc.com",
         "password" : "12345",
         "refresh": "5",
         "port": "8443",
