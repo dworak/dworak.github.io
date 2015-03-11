@@ -32,27 +32,27 @@
       "userid": "",
       "signaling": {
         "password": "12345",
-        "username": "60904",
+        "username": "7001054”,
         "domain": "gsc.com",
         "protocol": "tls",
         "port": "5061",
-        "address": "135.20.246.20",
+        "address": "135.20.249.41",
         "enabled": "1"
       },
       "ces": {
         "password": "12345",
-        "username": "8211071",
+        "username": "8211076",
         "use-ssl": "1",
        "port": "7777",
-        "address": "135.20.246.136",
+        "address": "135.20.246.169",
         "enabled": "1"
       },
       "messaging": {
-        "username" : "androidvvit4@avaya.com",
-        "password" : "Avaya123!",
+        "username" : "7001054@gsc.com",
+        "password" : "12345",
         "refresh": "5",
         "port": "8443",
-        "address": "135.20.246.95",
+        "address": "uc-amm4-1.cnda.avaya.com",
         "allowed": "1",
         "enabled": "1"
       },

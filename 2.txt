@@ -1,0 +1,73 @@
+{
+  "accounts": [
+    {
+      "telephony-settings": {
+        "exclusion": "16135959535",
+        "drop-last-added-party": "16135959542",
+        "transfer-on-hangup": "16135959537",
+        "conference-on-answer": "16135959541",
+        "send-all-calls-cancel": "16135959546",
+        "send-all-calls-enable": "16135959545",
+        "idle-appearance-select": "16135959544",
+        "sim-ring-enable": "16135959547",
+        "sim-ring-disable": "16135959548",
+        "call-forward-enable": "16135959538",
+        "call-forward-busy": "16135959539",
+        "call-forward-disable": "16135959540",
+        "call-appearance-active": "16135959543",
+        "call-appearance-held": "16135959536"
+      },
+      "dialing-rules": {
+        "remove-area-code": "0",
+        "national-number-length": "10",
+        "enabled": "1",
+        "outside-line": "",
+        "country": "1",
+        "area": "613",
+        "pbx-main-prefix": "",
+        "long-distance": "1",
+        "international-call": "011",
+        "internal-extension-length": "7"
+      },
+      "userid": "",
+      "signaling": {
+        "password": "12345",
+        "username": "7001052”,
+        "domain": "gsc.com",
+        "protocol": "tls",
+        "port": "5061",
+        "address": "135.20.249.41",
+        "enabled": "1"
+      },
+      "ces": {
+        "password": "12345",
+        "username": "8211076",
+        "use-ssl": "1",
+       "port": "7777",
+        "address": "135.20.246.169",
+        "enabled": "1"
+      },
+      "messaging": {
+        "username" : "7001052@gsc.com",
+        "password" : "12345",
+        "refresh": "5",
+        "port": "8443",
+        "address": "uc-amm4-1.cnda.avaya.com",
+        "allowed": "1",
+        "enabled": "1"
+      },
+      "conference": "60397@gsc.com",
+	  "emergency-numbers": [
+        11,
+        111,
+        211,
+        311,
+        411
+      ],
+      "support": {
+        "email": "onexsipios-dev@forge.avaya.com"
+      },
+      "policy": "enterprise"
+    }
+  ]
+}
